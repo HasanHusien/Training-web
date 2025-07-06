@@ -1,2 +1,2 @@
-# Training-web
+# Training
 Training web i made 
